@@ -40,5 +40,3 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Cibalol/badges/large)
-
-### ⚙️ GitHub статистика:
